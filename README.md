@@ -1,5 +1,22 @@
 # Chimera-algorithm
 
+**Real-time computer vision system for combat robotics.** Detects enemies (YOLOv8-OBB) and self-locates (ArUco markers), then sends target data to the robot's microcontroller.
+
+## What's here
+
+1.Yolov8-OBB training programs.
+2.Detection of yolov8-OBB.
+3.Detection of 4 Arugo markers placed front, back, right, and left. Detection with processing of all variants, even when several markers are not detected.
+4.Sending data to esp32 with checksum.
+5.The main program for running real-time detection and sending to esp32
+
+## What's not here
+
+1.Datasets
+2.Trained models
+
+## How to download 
+
 Main file is "main.py"
 
 To download, you need to run the command in cmd "git clone https://github.com/Vlad326/Chimera-algorithm.git" in the desired folder or download ONLY this file.
