@@ -5,9 +5,13 @@
 ## What's here
 
 1.Yolov8-OBB training programs.
+
 2.Detection of yolov8-OBB.
+
 3.Detection of 4 Arugo markers placed front, back, right, and left. Detection with processing of all variants, even when several markers are not detected.
+
 4.Sending data to esp32 with checksum.
+
 5.The main program for running real-time detection and sending to esp32
 
 ## What's not here
