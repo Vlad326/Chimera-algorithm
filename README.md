@@ -34,7 +34,8 @@ To download, you need to run the command in cmd "git clone https://github.com/Vl
 
 <img width="1439" height="1351" alt="image" src="https://github.com/user-attachments/assets/b85e38ba-ee30-44fd-8594-018478d27d58" />
 
-<img width="1405" height="1297" alt="image" src="https://github.com/user-attachments/assets/431abf9b-87f0-4bd4-bed3-d0d22f0c2901" />
+<img width="1338" height="1238" alt="image" src="https://github.com/user-attachments/assets/e2c7bd21-7524-43f8-a922-65287aa27738" />
+
 
 Chimera VS Rubezh Robotics
 
