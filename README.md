@@ -24,6 +24,14 @@
 
 2.Trained models
 
+## Detection pipeline
+
+1.Detection of 4 Arugo markers placed front, back, right, and left (self)
+
+2.Detection of yolov8-OBB
+
+3.Sending data to esp32
+
 ## How to download 
 
 Main file is "main.py"
