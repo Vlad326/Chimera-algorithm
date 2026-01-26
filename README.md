@@ -30,4 +30,10 @@ To download, you need to run the command in cmd "git clone https://github.com/Vl
 
 ## System Demonstration
 
+==========
+
 <img width="1439" height="1351" alt="image" src="https://github.com/user-attachments/assets/b85e38ba-ee30-44fd-8594-018478d27d58" />
+
+Chimera VS Rubezh Robotics
+
+==========
