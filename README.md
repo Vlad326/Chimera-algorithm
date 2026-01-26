@@ -12,7 +12,11 @@
 
 4.Sending data to esp32 with checksum.
 
-5.The main program for running real-time detection and sending to esp32
+5.Camera distortion calibration program.
+
+6.Removing camera distortion.
+
+7.The main program for running real-time detection and sending to esp32
 
 ## What's not here
 
